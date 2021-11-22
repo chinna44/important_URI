@@ -1,0 +1,15 @@
+https://github.com/selenium-saikrishna/maven
+https://python-jenkins.readthedocs.io/en/latest/api.html --> scenarios with python using jenkins 
+https://technology.riotgames.com/news/putting-jenkins-docker-container --> docker
+directdevops.blog --> notes for DevOps
+https://github.com/QT-DevOps/
+https://github.com/ValaxyTech/DevOpsDemos/blob/master/Kubernetes/k8s-setup.md
+https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/
+How ssm works --> https://docs.aws.amazon.com/systems-manager/latest/userguide/how-it-works.html
+Prerequisites --> https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-prereqs.html
+https://www.middlewareinventory.com/blog/ansible_json_query/
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
+https://www.javatpoint.com/aws-nacl-vs-security-group
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
+https://github.com/diodonfrost/terraform-aws-examples
+https://medium.com/avmconsulting-blog/persistent-volumes-pv-and-claims-pvc-in-kubernetes-bd76923a61f6 --> volumes on Kubernetes
